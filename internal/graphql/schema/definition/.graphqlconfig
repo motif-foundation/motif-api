@@ -1,0 +1,21 @@
+{
+  "name": "Motif GraphQL API Schema",
+  "schemaPath": "./schema.graphql",
+  "documents": "./**/*.graphql",
+  "extensions": {
+    "endpoints": {
+      "Local GraphQL Endpoint": {
+        "url": "http://localhost:16761/api",
+        "introspect": false
+      },
+      "Dev GraphQL Endpoint": {
+        "url": "https://api.motif.foundation/",
+        "introspect": false
+      },
+      "API MOTIF": {
+        "url": "https://api.motif.foundation/api",
+        "introspect": false
+      } 
+    }
+  }
+}

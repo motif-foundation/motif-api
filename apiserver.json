@@ -1,0 +1,38 @@
+{
+  "app_name": "MOTIF API",
+  "me": {
+    "address": "0xd2913BeB00281680F0d1a0cDAa47e4699Ff6c326",
+    "pkey": ""
+  },
+  "server": {
+    "bind": "localhost:16761" 
+  }, 
+  "node": {
+    "url": "/root/motif/motif-blockchain/build/validatordata/motif.ipc" 
+  },
+  "log": {
+    "level": "Info"
+  },
+  "db": {
+    "url": "mongodb://127.0.0.1:27017",
+    "db": "mainnet"
+  },
+  "repository": {
+    "stakers": 7
+  },
+  "staking": { 
+    "sfc": "0xFC00FACE00000000000000000000000000000000",
+    "sti": "0x905b5811f2d5682bf81b2a3fe61e090c11e7b178",
+    "tokenizer": "0xd8c0d64cc745fd57403cb8ed965f7c0eee5a9298",
+    "token": "0xe2ee5f7ec245e1686fb1662517dffed4630beeaf"
+  },
+  "defi": {
+    "fmint": {
+      "address_provider": "0xdeec401e448d5d9132eb79ac84eb3f212d7759fb"
+    }, 
+    "symbols": [
+      "USD"  
+    ]
+  }, 
+  "erc20_tokens_file": "tokens.json"
+}
