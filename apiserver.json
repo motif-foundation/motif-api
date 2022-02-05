@@ -22,13 +22,13 @@
   },
   "staking": { 
     "sfc": "0xFC00FACE00000000000000000000000000000000",
-    "sti": "0x905b5811f2d5682bf81b2a3fe61e090c11e7b178",
-    "tokenizer": "0xd8c0d64cc745fd57403cb8ed965f7c0eee5a9298",
-    "token": "0xe2ee5f7ec245e1686fb1662517dffed4630beeaf"
+    "sti": "0x9acd3c6b2834ad8def5a168807269d913954a092",
+    "tokenizer": "0x7b4d30a5ea00e6efbe01dfbf120a2df2d3e2b410",
+    "token": "0x1e28e2f21197532737f18c5225a2c001ee5d74a0"
   },
   "defi": {
     "fmint": {
-      "address_provider": "0xdeec401e448d5d9132eb79ac84eb3f212d7759fb"
+      "address_provider": "0x3d4e01d4e028e9b0f1c898c189d03807ee117977"
     }, 
     "symbols": [
       "USD"  

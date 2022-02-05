@@ -66,10 +66,10 @@ const (
 	defSfcContract = "0xFC00FACE00000000000000000000000000000000"
 
 	// defStiContract holds deployment address of the Staker Info smart contract.
-	defStiContract = "0x905b5811f2d5682bf81b2a3fe61e090c11e7b178"
+	defStiContract = "0x9acd3c6b2834ad8def5a168807269d913954a092"
 
 	// defDefiFMintAddressProvider represents the address of the fMintAddressProvider
-	defDefiFMintAddressProvider = "0xdeec401e448d5d9132eb79ac84eb3f212d7759fb"
+	defDefiFMintAddressProvider = "0x3d4e01d4e028e9b0f1c898c189d03807ee117977"
 
 	// defDefiFMintAddressProvider represents the address of the fMintAddressProvider
 	defDefiUniswapCore = EmptyAddress
