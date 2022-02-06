@@ -1,7 +1,7 @@
 {
   "app_name": "MOTIF API",
   "me": {
-    "address": "0xd2913BeB00281680F0d1a0cDAa47e4699Ff6c326",
+    "address": "",
     "pkey": ""
   },
   "server": {
@@ -21,14 +21,14 @@
     "stakers": 7
   },
   "staking": { 
-    "sfc": "0xFC00FACE00000000000000000000000000000000",
-    "sti": "0x9acd3c6b2834ad8def5a168807269d913954a092",
-    "tokenizer": "0x7b4d30a5ea00e6efbe01dfbf120a2df2d3e2b410",
-    "token": "0x1e28e2f21197532737f18c5225a2c001ee5d74a0"
+    "sfc": "0xFC00FACE00000000000000000000000000000000", 
+    "sti": "0xd0e055d5be1e03a6e79f9aaa50f5202191642440",
+    "tokenizer": "0x899a9130bf53052ca7ed3bdb3bb12a13f40beb74",
+    "token": "0xedc2dece9560de68a92e4de2a4f82d2f9e64266e" 
   },
   "defi": {
     "fmint": {
-      "address_provider": "0x3d4e01d4e028e9b0f1c898c189d03807ee117977"
+      "address_provider": "0x4306cc8929cf1d580e989fa647d39ffc2d68347f"
     }, 
     "symbols": [
       "USD"  
