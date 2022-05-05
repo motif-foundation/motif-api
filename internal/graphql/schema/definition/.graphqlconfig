@@ -5,7 +5,7 @@
   "extensions": {
     "endpoints": {
       "Local GraphQL Endpoint": {
-        "url": "http://localhost:16761/api",
+        "url": "http://154.12.232.29:16761/api",
         "introspect": false
       },
       "Dev GraphQL Endpoint": {
