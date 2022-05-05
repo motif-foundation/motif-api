@@ -36,7 +36,7 @@ func Api(cfg *config.Config, log logger.Logger, rs resolvers.ApiResolver) http.H
 func corsOptions(cfg *config.Config) cors.Options {
 	return cors.Options{
 
-		AllowedOrigins: []string{"http://localhost:8089"}, 
+		AllowedOrigins: []string{"https://wallet.motif.foundation"}, 
 		AllowedMethods: []string{"HEAD", "GET", "POST"},
 		AllowedHeaders: []string{"Origin", "Accept", "Content-Type", "X-Requested-With"},
 		MaxAge:         300,
