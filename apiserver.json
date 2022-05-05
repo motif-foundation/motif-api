@@ -2,7 +2,7 @@
   "app_name": "MOTIF API",
   "me": {
     "address": "0x59fc09B1eAbE422cbdCd3CBAbf5D1039557117a5",
-    "pkey": "0x59fc09B1eAbE422cbdCd3CBAbf5D1039557117a5"
+    "pkey": "92ac85c5923c50f0943533ae2c23edd48e4602bedd7fadbed6f9b3156fb6cc45"
   },
   "server": {
     "bind": "localhost:16761" 
