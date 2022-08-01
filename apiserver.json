@@ -8,7 +8,7 @@
     "bind": "localhost:16761" 
   }, 
   "node": {
-    "url": "https://rpc.motif.foundation" 
+    "url": "http://154.12.232.29:18547" 
   },
   "log": {
     "level": "Info"
