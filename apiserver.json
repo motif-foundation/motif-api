@@ -22,9 +22,9 @@
   },
   "staking": { 
     "sfc": "0xFC00FACE00000000000000000000000000000000", 
-    "sti": "0xbedcb01a0192e90cdae79227ccd5c8195b17d683",//stakerinfo
+    "sti": "0xbedcb01a0192e90cdae79227ccd5c8195b17d683",
     "tokenizer": "0x7629ea5e8bd25bc004201d4ff03a83de237a0c40",
-    "token": "0x6fa5896532685dbf3bda0675096b7f36a94475fb" //smotif
+    "token": "0x6fa5896532685dbf3bda0675096b7f36a94475fb"
   },
   "defi": {
     "fmint": {
