@@ -14,7 +14,7 @@ const (
 	// defSelfAddress is a default address used as a placeholder
 	// for actual API server identification.
 	// Please make sure to configure your real key for your API server on the wild.
-	defSelfAddress    = "0xd2913BeB00281680F0d1a0cDAa47e4699Ff6c326"
+	defSelfAddress    = "0x2f5538324b488C815db40D02028f01F3D67E726B"
 	defSelfPrivateKey = ""
 
 	// EmptyAddress defines an empty address
@@ -66,10 +66,10 @@ const (
 	defSfcContract = "0xFC00FACE00000000000000000000000000000000"
 
 	// defStiContract holds deployment address of the Staker Info smart contract.
-	defStiContract = "0x9796b2d5be97895dfdf218dc5cdd234f7ff9774a"
+	defStiContract = "0xbedcb01a0192e90cdae79227ccd5c8195b17d683"
 
 	// defDefiFMintAddressProvider represents the address of the fMintAddressProvider
-	defDefiFMintAddressProvider = "0x4549020ce7e6b194c9a7a829d8b6e1e158db8bf9"
+	defDefiFMintAddressProvider = "0x08aa8b88721853c62cc8192da8f24aeb94aaeb66"
 
 	// defDefiFMintAddressProvider represents the address of the fMintAddressProvider
 	defDefiUniswapCore = EmptyAddress
