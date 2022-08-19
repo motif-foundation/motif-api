@@ -1,8 +1,8 @@
 {
   "app_name": "MOTIF API",
   "me": {
-    "address": "0x2f5538324b488C815db40D02028f01F3D67E726B",
-    "pkey": "dc999954770b56e239b2379dce86d6f20d3b6e155c2b93fca7513d8d43fa75d9"
+    "address": "0xC31D6C3482DB1585494427914f602933BC8CCe17",
+    "pkey": "117a5e3cdca39ae9c2a9a3912f742033c236a0c83dbef11c19f24fc7d01da2b7"
   },
   "server": {
     "bind": "localhost:16761" 
@@ -22,13 +22,13 @@
   },
   "staking": { 
     "sfc": "0xFC00FACE00000000000000000000000000000000", 
-    "sti": "0xbedcb01a0192e90cdae79227ccd5c8195b17d683",
-    "tokenizer": "0x7629ea5e8bd25bc004201d4ff03a83de237a0c40",
-    "token": "0x6fa5896532685dbf3bda0675096b7f36a94475fb"
+    "sti": "0xde4a685aee5b0ca0fee9fabe2ee7b833ea5237f1", 
+    "tokenizer": "0x03e29c7f6f81902d2cdabd12cf2a6f681c6624c4",
+    "token": "0x6cafa4d1025a6fd2e050a5792dda58c33bd4aac1" 
   },
   "defi": {
     "fmint": {
-      "address_provider": "0x08aa8b88721853c62cc8192da8f24aeb94aaeb66"
+      "address_provider": "0x3caeec529fa3e0ab264192455316c583821b7da9"
     }, 
     "symbols": [
       "USD"  
@@ -36,3 +36,4 @@
   }, 
   "erc20_tokens_file": "tokens.json"
 }
+ 
